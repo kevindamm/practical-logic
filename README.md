@@ -1,4 +1,4 @@
-# practical-logic: CLP(FD) exploratory, in OCaml
+# practical-logic: <br> CLP(FD) exploratory, <br> with OCaml->JavaScript
 
 Constraint-Logic Programming over Finite Domains using tricks of the trade
 developed through self-study of the textbook
@@ -15,6 +15,16 @@ a particular section of interest, and easily see the diff between it and its
 predecessor, or to try alternate design paths from certain early points in the
 book.  The following table of contents links to the relevant branches for
 completed sections and exercises.
+
+The code here deviates from that in the book, and the `main` branch will often
+elide or modify significant parts of the original source code.  Sometimes this
+is done simply to my taste and sometimes it is in service of the
+[interactive solver](https://kevindamm.github.io/practical-logic)
+made available as a web application
+  via [`js_of_ocaml`](https://github.com/ocsigen/js_of_ocaml)
+  and [*Vitepress*](https://vitepress.dev/)
+  and hosted on [GitHub Pages](https://docs.github.com/pages).
+
 
 1. Introduction
 

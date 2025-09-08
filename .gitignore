@@ -34,3 +34,8 @@ setup.log
 
 # Local OPAM switch
 _opam/
+
+# Vitepress build files
+node_modules/
+pages/.vitepress/cache/
+pages/.vitepress/dist/
